@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.SideNav {
+  width: 25%;
+  float: left;
+}
+
+.homeBox {
+  width: 50%;
+  float:inline-start;
+}
+
+.rightMarginBox {
+  width: 24.5%;
+  float: inline-end;
+}
+
+body {
+  background: white ;
+}
